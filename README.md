@@ -1,5 +1,6 @@
 # download-radio-ref
-Script to download the radio REF
+Script to download the Radio REF.
+You need a proper subscription with the REF to be able to download the Radio REF magazine.
 
 ## Installation
 ```
@@ -9,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ## Configuration
-Please edit sync.ini in same path, and change username and password.
+Please edit sync.ini in same path, and change REF username and password.
 ```
 [DEFAULT]
 user = callsign
